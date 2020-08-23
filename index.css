@@ -1,0 +1,9 @@
+#mainGroup {
+    display: flex;
+    flex-direction: row;
+}
+
+#avatar img {
+    height: 25px;
+    width:25px;
+}
